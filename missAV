@@ -1,4 +1,4 @@
-const UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_2 like Mac OS X) AppleWebKit/604.1.14 (KHTML, like Gecko)'
+const UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/604.1.14 (KHTML, like Gecko)'
 const cheerio = createCheerio()
 /*
 {	
